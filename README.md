@@ -15,7 +15,7 @@ Demo: https://idogo-weather.netlify.app
 ## Screenshots
 ### Main
 Here you can see a variety of details about your chosen city.
-<p align="center"><img src="img4readme/2020-12-02(5).png" width="500" /></p>
+<p align="center"><img src="img4readme/2020-12-02 (5).png" width="500" /></p>
 
 ### Change Location
 By clicking the *Change Location* button, a modal plugin will pop up. There you can chose a city and click the *Save changes* button.
